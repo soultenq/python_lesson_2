@@ -1,2 +1,2 @@
 # python_lesson_2
-Course ot Python, Lesson 2
+Lesson 2 of the course
